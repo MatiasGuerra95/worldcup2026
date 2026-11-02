@@ -1,0 +1,73 @@
+Group,Matchday,Date,Home,Score,Away,P(Home Win),P(Draw),P(Away Win)
+A,1,06/11/2026 13:00,Mexico,1-0,South Africa,52%,26%,22%
+A,1,06/11/2026 20:00,South Korea,1-1,Czech Republic,39%,26%,35%
+A,2,06/18/2026 19:00,Mexico,1-0,South Korea,51%,25%,23%
+A,2,06/18/2026 12:00,Czech Republic,1-1,South Africa,45%,27%,28%
+A,3,06/24/2026 19:00,South Africa,1-1,South Korea,31%,26%,43%
+A,3,06/24/2026 19:00,Czech Republic,0-1,Mexico,25%,27%,48%
+B,1,06/12/2026 15:00,Canada,1-1,Bosnia and Herzegovina,42%,26%,32%
+B,1,06/13/2026 12:00,Qatar,0-2,Switzerland,16%,20%,64%
+B,2,06/18/2026 12:00,Switzerland,1-1,Bosnia and Herzegovina,55%,22%,23%
+B,2,06/18/2026 15:00,Canada,1-1,Qatar,50%,25%,25%
+B,3,06/24/2026 12:00,Bosnia and Herzegovina,1-1,Qatar,44%,27%,28%
+B,3,06/24/2026 12:00,Switzerland,1-1,Canada,51%,24%,25%
+C,1,06/13/2026 21:00,Haiti,0-1,Scotland,22%,25%,52%
+C,1,06/13/2026 18:00,Brazil,1-0,Morocco,49%,27%,25%
+C,2,06/19/2026 21:00,Brazil,2-0,Haiti,78%,15%,7%
+C,2,06/19/2026 18:00,Scotland,0-1,Morocco,21%,27%,52%
+C,3,06/24/2026 18:00,Scotland,0-2,Brazil,15%,21%,64%
+C,3,06/24/2026 18:00,Morocco,1-0,Haiti,62%,23%,14%
+D,1,06/12/2026 18:00,United States,1-0,Paraguay,48%,27%,26%
+D,1,06/13/2026 21:00,Australia,0-1,Turkey,24%,26%,51%
+D,2,06/19/2026 12:00,United States,1-0,Australia,57%,23%,20%
+D,2,06/19/2026 20:00,Turkey,1-1,Paraguay,41%,29%,31%
+D,3,06/25/2026 19:00,Paraguay,1-1,Australia,40%,26%,34%
+D,3,06/25/2026 19:00,Turkey,1-1,United States,30%,27%,42%
+E,1,06/14/2026 19:00,Ivory Coast,1-1,Ecuador,26%,26%,49%
+E,1,06/14/2026 12:00,Germany,2-0,Curaçao,82%,12%,5%
+E,2,06/20/2026 16:00,Germany,2-0,Ivory Coast,71%,17%,12%
+E,2,06/20/2026 19:00,Ecuador,1-0,Curaçao,59%,24%,18%
+E,3,06/25/2026 16:00,Curaçao,0-1,Ivory Coast,23%,25%,53%
+E,3,06/25/2026 16:00,Ecuador,0-1,Germany,17%,22%,61%
+F,1,06/14/2026 15:00,Netherlands,2-0,Japan,72%,17%,11%
+F,1,06/14/2026 20:00,Sweden,1-0,Tunisia,51%,26%,23%
+F,2,06/20/2026 12:00,Netherlands,2-0,Sweden,70%,19%,11%
+F,2,06/20/2026 22:00,Tunisia,1-1,Japan,23%,24%,53%
+F,3,06/25/2026 18:00,Japan,1-1,Sweden,42%,27%,32%
+F,3,06/25/2026 18:00,Tunisia,0-2,Netherlands,7%,13%,80%
+G,1,06/15/2026 18:00,Iran,1-0,New Zealand,51%,26%,23%
+G,1,06/15/2026 12:00,Belgium,2-0,Egypt,71%,18%,10%
+G,2,06/21/2026 12:00,Belgium,1-0,Iran,67%,21%,12%
+G,2,06/21/2026 18:00,New Zealand,1-1,Egypt,26%,26%,48%
+G,3,06/26/2026 20:00,Egypt,1-1,Iran,33%,29%,39%
+G,3,06/26/2026 20:00,New Zealand,0-2,Belgium,8%,16%,77%
+H,1,06/15/2026 12:00,Spain,2-0,Cape Verde,80%,13%,7%
+H,1,06/15/2026 18:00,Saudi Arabia,0-2,Uruguay,12%,20%,68%
+H,2,06/21/2026 12:00,Spain,3-0,Saudi Arabia,87%,9%,4%
+H,2,06/21/2026 18:00,Uruguay,1-0,Cape Verde,60%,24%,16%
+H,3,06/26/2026 19:00,Cape Verde,1-1,Saudi Arabia,44%,27%,29%
+H,3,06/26/2026 18:00,Uruguay,1-1,Spain,22%,23%,55%
+I,1,06/16/2026 15:00,France,2-0,Senegal,76%,15%,9%
+I,1,06/16/2026 18:00,Iraq,1-1,Norway,27%,27%,47%
+I,2,06/22/2026 17:00,France,2-0,Iraq,86%,10%,4%
+I,2,06/22/2026 20:00,Norway,1-1,Senegal,31%,27%,42%
+I,3,06/26/2026 15:00,Senegal,1-1,Iraq,53%,24%,23%
+I,3,06/26/2026 15:00,Norway,0-2,France,7%,14%,79%
+J,1,06/16/2026 20:00,Argentina,2-0,Algeria,74%,16%,11%
+J,1,06/16/2026 21:00,Austria,1-0,Jordan,52%,25%,22%
+J,2,06/22/2026 12:00,Argentina,2-0,Austria,68%,19%,13%
+J,2,06/22/2026 20:00,Jordan,1-1,Algeria,25%,24%,51%
+J,3,06/27/2026 21:00,Algeria,1-1,Austria,34%,27%,39%
+J,3,06/27/2026 21:00,Jordan,0-2,Argentina,6%,13%,81%
+K,1,06/17/2026 12:00,Portugal,2-1,Democratic Republic of the Congo,63%,20%,17%
+K,1,06/17/2026 20:00,Uzbekistan,0-2,Colombia,13%,19%,68%
+K,2,06/23/2026 12:00,Portugal,2-0,Uzbekistan,64%,20%,16%
+K,2,06/23/2026 20:00,Colombia,2-0,Democratic Republic of the Congo,67%,20%,13%
+K,3,06/27/2026 19:30,Colombia,1-1,Portugal,42%,23%,35%
+K,3,06/27/2026 19:30,Democratic Republic of the Congo,1-1,Uzbekistan,36%,29%,35%
+L,1,06/17/2026 15:00,England,1-1,Croatia,54%,22%,24%
+L,1,06/17/2026 19:00,Ghana,1-1,Panama,37%,24%,39%
+L,2,06/23/2026 19:00,Panama,0-2,Croatia,9%,14%,77%
+L,2,06/23/2026 16:00,England,3-0,Ghana,86%,9%,4%
+L,3,06/27/2026 17:00,Panama,0-3,England,4%,9%,87%
+L,3,06/27/2026 17:00,Croatia,3-0,Ghana,79%,12%,8%

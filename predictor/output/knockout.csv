@@ -1,0 +1,33 @@
+Round,Match,Home,Score,Away,Winner,Penalties
+R32,73,South Africa,1-1,Canada,Canada,True
+R32,74,Germany,2-0,Bosnia and Herzegovina,Germany,False
+R32,75,Netherlands,1-0,Morocco,Netherlands,False
+R32,76,Brazil,1-0,Sweden,Brazil,False
+R32,77,France,2-0,Scotland,France,False
+R32,78,Ecuador,1-1,Senegal,Senegal,True
+R32,79,Mexico,1-0,Ivory Coast,Mexico,False
+R32,80,England,2-0,Iraq,England,False
+R32,81,United States,1-1,Japan,United States,True
+R32,82,Belgium,2-0,South Korea,Belgium,False
+R32,83,Portugal,1-1,Croatia,Portugal,True
+R32,84,Spain,2-0,Austria,Spain,False
+R32,85,Switzerland,1-1,Egypt,Switzerland,True
+R32,86,Argentina,1-0,Uruguay,Argentina,False
+R32,87,Colombia,2-0,Paraguay,Colombia,False
+R32,88,Turkey,1-0,Iran,Turkey,False
+R16,89,Germany,1-2,France,France,False
+R16,90,Canada,0-3,Netherlands,Netherlands,False
+R16,91,Brazil,1-1,Senegal,Brazil,True
+R16,92,Mexico,0-1,England,England,False
+R16,93,Portugal,1-2,Spain,Spain,False
+R16,94,United States,0-1,Belgium,Belgium,False
+R16,95,Argentina,2-0,Turkey,Argentina,False
+R16,96,Switzerland,1-2,Colombia,Colombia,False
+QF,100,Argentina,1-1,Colombia,Argentina,True
+QF,97,France,1-1,Netherlands,France,True
+QF,98,Spain,1-1,Belgium,Spain,True
+QF,99,Brazil,1-1,England,England,True
+SF,101,France,2-1,Spain,France,False
+SF,102,England,1-1,Argentina,Argentina,True
+FINAL,104,France,1-1,Argentina,Argentina,True
+THIRD,103,Spain,1-1,England,Spain,True
